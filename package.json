@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "나으 첫번째 앱",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnlikechicken/my-app-220313.git"
+  },
+  "keywords": [
+    "node",
+    "app"
+  ],
+  "author": "지성팍",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnlikechicken/my-app-220313/issues"
+  },
+  "homepage": "https://github.com/johnlikechicken/my-app-220313#readme"
+}
